@@ -15,25 +15,26 @@ import numpy as np
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) \
            Chrome/39.0.2171.95 Safari/537.36'} 
 	   
-	   *Code run 1.2
+*Code run 1.2
 All packages found (including pandas, numpy, Beautiful Soup). 
 
-	* Part 1.3.1
+* Part 1.3.1
 Images not shown. No output other than string variable root-url creation -> size = 105, http://caselaw.findlaw.com/court/us-supreme-court/years/.
-	* Part 1.3.2
+
+* Part 1.3.2
  “Years” list created with an undefined variable limit, size currently at 2216. No output.
- 	* Part 1.3.3
+ * Part 1.3.3
 Dataframe var = 374368. Creates data set. Output as follow: Out[12]: 'http://caselaw.findlaw.com/us-supreme-court/05-1101.html'
-	* Part 1.4
+* Part 1.4
 End Array size of (23393, 2). That is, 23K+ court cases available.
 
-	* Part 2
+* Part 2
 Packages reloaded as per instructions (e.g. Beautiful Soup, pandas, etc). As far as I can tell, the "supcourt" def is meant to be a service request limit for requests made to the web server. Similarly, these def's (Supcourt, test_df, test2_df and test3_df) are DF variables with given, varying sizes.
-	* Part 2.2
+* Part 2.2
 Purpose of database creation.
-	* Part 3
+* Part 3
 No errors so Im assuming something is going right(?).
-	* Part 4.
+* Part 4.
 No output or readout (but I guess that's good since there are no error messages either).
 	   
 	   
